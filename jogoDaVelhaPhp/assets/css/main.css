@@ -1,0 +1,8 @@
+/* link do video https://www.youtube.com/watch?v=TqmMbNafJfI&t=869s // parei em 35:05 
+   link do github desse projeto: https://github.com/sys4soft/jogo_php_02/tree/main
+*/
+.board-cell {
+    width: 160px;
+    height: 160px;
+    border: 5px solid gray;
+}
